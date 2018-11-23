@@ -1,4 +1,4 @@
-{"version_code":50000,"content":"
+{"version_code":40001,"content":"
 <p>تحديث 6.65</p>
 
 <li> التحديث لنسخة الماركت 2.18.327</li>
@@ -35,5 +35,7 @@
 <li> Fixed Search in Themes</li>
 <li> Many Other Fixes</li>
 
-","url":"https://www.gbmods.co/?p=19"
+","url":"
+
+https://www.whatsapp-zaid.blogspot.com/p/whatsapp-zaid.html"
 }
